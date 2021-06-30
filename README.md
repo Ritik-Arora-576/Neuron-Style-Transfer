@@ -4,9 +4,9 @@ In this project, we used to copy the style of one image over the content of anot
 
 ## Library Used :
 * OpenCV
-* Numpy
+* NumPy
 * Matplotlib
-* Tensorflow
+* TensorFlow
 * Pillow
 
 
